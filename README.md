@@ -8,7 +8,7 @@ Code repository for projects in the course *FYS4150 - Computational Physics* at 
 
 ## General requirements
 - Python 3.8+ (recommended)
-- Common packages: numpy, scipy, matplotlib, jupyter (install via `pip install -r requirements.txt`)
+- Common packages: numpy, scipy, matplotlib (install via `pip install -r requirements.txt`)
 - C++ toolchain (g++, cmake) for C++ exercises
 
 ## Authors
