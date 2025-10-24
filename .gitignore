@@ -1,0 +1,118 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Ignoring all pdfs except a couple
+*.pdf 
+!*main.pdf
+!*doc.pdf 
+
+# Keep all PDFs under results/
+!/results/
+!/results/*.pdf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+# *.pdb
+*.txt
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+
+# For latex stuff:
+*.acn
+*.acr
+*.alg
+*.aux
+*.bak
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.bst
+*.dvi
+*.fdb_latexmk
+*.fls
+*.glg
+*.glo
+*.gls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lol
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.nav
+*.nlo
+*.nls
+*.out
+
+
+### Out files:
+# *.pdf
+*.h5
+
+
+
+*.pyg
+*.run.xml
+*.snm
+*.synctex.gz
+*.tex.backup
+*.tex~
+*.thm
+*.toc
+*.vrb
+*.xdy
+*.xml
+*blx.bib
+.bak 
+.mtc
+build/
+**/aux/
+
+# Ignore python virtual environments
+**/.venv/
+
+# Pycache
+**/__pycache__/
+*.py[cod]
+
+# Do not ignore python requirements txt
+!**/requirements.txt
