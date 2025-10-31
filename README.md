@@ -1,6 +1,6 @@
 # FYS4150 - Computational Physics
 ## Description
-Code repository for projects in the course *FYS4150 - Computational Physics* at the University of Oslo. 
+Copy of code used in projects for the course *FYS4150 - Computational Physics* at the University of Oslo. 
 
 ## Contents and usage
 - See README files in each project subfolder for specific descriptions and build/run instructions.
